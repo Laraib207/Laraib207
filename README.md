@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate student and developer currently interning
 ## 🚀 About Me
 
 - 🎓 I’m currently a student, always eager to learn and grow in the tech space.
-- 🧑‍💻 Currently working on **a SpotifyClone** and my **CommingSoon**.
+- 🧑‍💻 Currently working on **a SpotifyClone** and my  **Netflixlone**.
 - ☕ I recently helped build a modern website for a cafe using JavaScript frameworks and UI/UX best practices.
 - 📚 I enjoy working with both front-end and back-end technologies.
 
