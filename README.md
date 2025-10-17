@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Laraib — Web-Developer | Intern at IT Organization
+# 👋 Hi, I'm Laraib — Web-Developer | IT Organization
 
 Welcome to my GitHub! I'm a passionate student and developer currently interning at an IT organization, building real-world projects and sharpening my skills in software development. 💻✨
 
