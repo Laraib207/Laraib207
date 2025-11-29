@@ -24,19 +24,12 @@ Welcome to my GitHub! I'm a passionate student and developer currently interning
 
 ## 🌐 Projects
 
-- **Personal Portfolio** – A modern, responsive site to showcase my work.
+- **Personal Portfolio** – A modern, responsive site to showcase my work, https://lightyellow-falcon-969571.hostingersite.com
 - **Recruiter Management System** – An admin panel for creating and managing recruiters.
 - **The Cafe Website** – A dynamic e-commerce-ready website with location mapping and contact forms.
 - **[myFirstProject](https://www.figma.com/proto/7rlwhLLorUnX96T2TOqJGY/Aasaan-Project--Copy-?node-id=582-303&starting-point-node-id=582%3A303&t=QRwKfLkAT1KuwssP-1).
 - ** veer bharat managment system like this https://www.veerbharat.io
 - ** veer bharat my live project like this https://www.veer-bharat.com
--  ** my portfolio https://lightyellow-falcon-969571.hostingersite.com
-- 
-
-
-
----
-
 ## 📫 Let's Connect
 
 - 💼 LinkedIn:- linkedin.com/in/md-laibu-173907279
