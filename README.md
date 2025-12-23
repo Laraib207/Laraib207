@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate student and developer currently interning
 
 - 💼 LinkedIn:- linkedin.com/in/md-laibu-173907279
 - 📬 Email: your.laraibsiddiqui10ki@gmail.com
-- 🌍 Portfolio: https://clever-moonbeam-1028de.netlify.app
+- 🌍 Portfolio: www.thelaraib.com
 
 ---
 
