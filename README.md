@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate student and developer currently interning
 
 ## 🌐 Projects
 
-- **Personal Portfolio** – A modern, responsive site to showcase my work, https://clever-moonbeam-1028de.netlify.app
+- **Personal Portfolio** – A modern, responsive site to showcase my work, www.thelaraib.com
 - **Recruiter Management System** – An admin panel for creating and managing recruiters.
 - **The Cafe Website** – A dynamic e-commerce-ready website with location mapping and contact forms.
 - **[myFirstProject](https://www.figma.com/proto/7rlwhLLorUnX96T2TOqJGY/Aasaan-Project--Copy-?node-id=582-303&starting-point-node-id=582%3A303&t=QRwKfLkAT1KuwssP-1).
