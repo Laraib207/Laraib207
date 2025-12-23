@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate student and developer currently interning
 ## 📫 Let's Connect
 
 - 💼 LinkedIn:- linkedin.com/in/md-laibu-173907279
-- 📬 Email: your.laraibsiddiqui10ki@gmail.com
+- 📬 Email: laraibsiddiqui10ki@gmail.com
 - 🌍 Portfolio: www.thelaraib.com
 
 ---
